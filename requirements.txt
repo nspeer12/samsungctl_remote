@@ -1,0 +1,2 @@
+netaddr==0.7.19
+samsungctl==0.7.1
